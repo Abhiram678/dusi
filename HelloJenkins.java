@@ -8,9 +8,9 @@ public class HelloJenkins {
         System.out.println("Addition Result: " + result);
 
         if(result == 8){
-            System.out.println("Build Success ✅");
+            System.out.println("Build Success ");
         } else {
-            System.out.println("Build Failed ❌");
+            System.out.println("Build Failed ");
         }
     }
 
